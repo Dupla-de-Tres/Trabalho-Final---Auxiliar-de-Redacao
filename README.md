@@ -17,3 +17,14 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 * ``` void toLowercase() ```: Função que converte todas as strings que estão em letra maiúscula para letra minúscula;
 * ``` void DividirParagrafos(); ```: Divide um texto em parágrafos e retorna um vetor de strings contendo os parágrafos individuais.;
 * ``` void DividirFrases(); ```: Esta função recebe uma string chamada palavra como entrada e remove toda a pontuação dessa string. A função retorna uma nova string chamada resultado, que contém a palavra sem a pontuação.
+
+
+<h2>Análise de Complexidade das Funções </h2>
+
+* ``` void RemoverPontuacao(); ```: O(n);
+  
+* ``` void toLowercase() ```: O(n);
+  
+* ``` void DividirParagrafos(); ```: Em seguida, a função std::getline é chamada para cada linha do texto. Ela percorre o texto uma vez, buscando as quebras de linha e dividindo-o em parágrafos. Portanto, a complexidade dessa parte é O(m). A função push_back é chamada para adicionar cada parágrafo ao vetor paragraphs. Como existem m parágrafos, a complexidade total dessa operação é O(m). Assim, a complexidade total da função DividirParagrafos é O(n + m), onde n é o tamanho da string de entrada e m é o número de linhas presentes no texto;
+  
+* ``` void DividirFrases(); ```: O(n + m);
