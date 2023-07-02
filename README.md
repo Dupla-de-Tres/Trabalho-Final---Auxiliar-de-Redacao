@@ -49,8 +49,22 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 
 <h2>Arquivos</h2>
 
-* ``` main.cpp ```: Arquivo principal do código. Ele recebe o arquivo "" para executar suas funções.
-* 
+* ``` main.cpp ```: Arquivo principal do código. Ele recebe o arquivo "read.hpp" para executar suas funções;
+* ``` read.hpp ```: Declara as funções utilizadas no programa;
+* ``` read.cpp ```: Implementação das funções usadas no código, como "DividirParagrafos" e "toLowercase";
+
+<h5>Input</h5>
+
+``` DomCasmurro.txt ```: Arquivo que contém todas as palavras do livro "Dom Casmurro";
+``` entrada.txt ```: Contém o texto que foi utilizada para testar o código;
+``` expressions.txt ```: Contém todas as expressões que foram contabilizadas e quantificadas no código;
+``` stopwords.txt ```: Contém as palavras consideradas "stopwords", no qual foram contabilizadas quando encontradas no texto.
+
+<h5>Output</h5>
+
+``` expstop.txt ```: Resultados de quantas expressões e stop words foram encontrados no texto;
+``` palavras.txt ```: Mostra quais palavras foram encontradas no texto, mostrando a sua ocorrência e a sua posição no texto;
+``` paragrafos.txt ```: Apresenta a posição de cada parágrafo, mostrando a quantidade de sentenças presentes em um parágrafo e quantas palavras com stopwords e sem stopwords estão presentes.
 
 
 <h2>Etapas e Funcionalidade</h2>
