@@ -1,0 +1,44 @@
+Parágrafo 1: Linha inicial: 1, Linha final: 7
+Número de sentenças: 5
+Sentença 1: Número de palavras (com stopwords): 26
+Sentença 1: Número de palavras (sem stopwords): 16
+Sentença 2: Número de palavras (com stopwords): 29
+Sentença 2: Número de palavras (sem stopwords): 17
+Sentença 3: Número de palavras (com stopwords): 52
+Sentença 3: Número de palavras (sem stopwords): 29
+Sentença 4: Número de palavras (com stopwords): 40
+Sentença 4: Número de palavras (sem stopwords): 24
+Sentença 5: Número de palavras (com stopwords): 22
+Sentença 5: Número de palavras (sem stopwords): 15
+Parágrafo 2: Linha inicial: 9, Linha final: 12
+Número de sentenças: 3
+Sentença 1: Número de palavras (com stopwords): 30
+Sentença 1: Número de palavras (sem stopwords): 16
+Sentença 2: Número de palavras (com stopwords): 29
+Sentença 2: Número de palavras (sem stopwords): 20
+Sentença 3: Número de palavras (com stopwords): 35
+Sentença 3: Número de palavras (sem stopwords): 22
+Parágrafo 3: Linha inicial: 14, Linha final: 18
+Número de sentenças: 6
+Sentença 1: Número de palavras (com stopwords): 14
+Sentença 1: Número de palavras (sem stopwords): 9
+Sentença 2: Número de palavras (com stopwords): 32
+Sentença 2: Número de palavras (sem stopwords): 16
+Sentença 3: Número de palavras (com stopwords): 22
+Sentença 3: Número de palavras (sem stopwords): 13
+Sentença 4: Número de palavras (com stopwords): 16
+Sentença 4: Número de palavras (sem stopwords): 10
+Sentença 5: Número de palavras (com stopwords): 27
+Sentença 5: Número de palavras (sem stopwords): 18
+Sentença 6: Número de palavras (com stopwords): 15
+Sentença 6: Número de palavras (sem stopwords): 8
+Parágrafo 4: Linha inicial: 20, Linha final: 22
+Número de sentenças: 4
+Sentença 1: Número de palavras (com stopwords): 20
+Sentença 1: Número de palavras (sem stopwords): 12
+Sentença 2: Número de palavras (com stopwords): 16
+Sentença 2: Número de palavras (sem stopwords): 8
+Sentença 3: Número de palavras (com stopwords): 18
+Sentença 3: Número de palavras (sem stopwords): 12
+Sentença 4: Número de palavras (com stopwords): 18
+Sentença 4: Número de palavras (sem stopwords): 13
