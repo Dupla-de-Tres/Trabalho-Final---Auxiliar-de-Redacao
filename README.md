@@ -78,8 +78,19 @@ Trabalho Final de AEDS I - Auxiliar de Redação
   
 <h2>Exemplo de Resultado</h2>
 
+<p>Para o teste de resultado do código, foi utilizado o exemplo de texto abaixo, que está inserido no arquivo chamado "entrada.txt".</p>
+<p> </p>
+
 <p align="center">
 <img src="src/image/img1.jpg" 
+        alt="Picture" 
+        style="display: block; margin: 0 auto" />
+</p>
+
+<p> Os resultados do teste foram divididos em três partes: </p>
+
+<p align="center">
+<img src="src/image/img2.jpg" 
         alt="Picture" 
         style="display: block; margin: 0 auto" />
 </p>
