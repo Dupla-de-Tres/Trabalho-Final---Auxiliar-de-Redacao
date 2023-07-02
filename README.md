@@ -91,3 +91,10 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 <p>Também é possível executar o programa através do site de hospedagem de código, Replit, onde foi realizado a programação do código do "Auxiliar de Redação": <link>https://replit.com/@OsBrabosSoltos/TrabalhoFinal#main.cpp</link></p>
 
 
+
+<h2>Autores</h2>
+
+<p>Daniel Couto Fonseca</p>
+<p>João Marcos Silva Hess</p>
+<p>Victor Ramos de Albuquerque Cabral</p>
+
