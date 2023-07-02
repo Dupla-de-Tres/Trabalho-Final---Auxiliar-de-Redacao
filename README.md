@@ -1,6 +1,19 @@
 # Trabalho-Final---Auxiliar-de-Redacao
 Trabalho Final de AEDS I - Auxiliar de Redação
 
+<div style="display: inline-block;">
+<img align="center" height="20px" width="90px" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/> 
+<img align="center" height="20px" width="60px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img align="center" height="20px" width="80px" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/> 
+<a href="https://github.com/mpiress/midpy/issues">
+<img align="center" height="20px" width="90px" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
+<img align="center" height="20px" width="80px" src="https://badgen.net/badge/license/MIT/green"/>
+</a> 
+</div>
+
+<p> </p>
+<p> </p>
+
 <h2>Introdução </h2>
 
 <p> No dia a dia, muitas pessoas têm dificuldades para escrever textos de qualidade, como trabalhos escolares, relatórios ou até mesmo mensagens simples. É importante que os textos sejam claros, bem organizados e fluam de maneira natural. No entanto, nem todo mundo tem facilidade com a escrita ou conhece todas as regras gramaticais e de estilo. Para ajudar nessa situação, está sendo desenvolvido um sistema que irá auxiliar no processo de escrita.  </p>
@@ -62,3 +75,15 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 * ``` void DividirParagrafos(); ```: Em seguida, a função std::getline é chamada para cada linha do texto. Ela percorre o texto uma vez, buscando as quebras de linha e dividindo-o em parágrafos. Portanto, a complexidade dessa parte é O(m). A função push_back é chamada para adicionar cada parágrafo ao vetor paragraphs. Como existem m parágrafos, a complexidade total dessa operação é O(m). Assim, a complexidade total da função DividirParagrafos é O(n + m), onde n é o tamanho da string de entrada e m é o número de linhas presentes no texto;
   
 * ``` void DividirFrases(); ```: O(n + m);
+
+<h2>Compilação e Execução do Programa</h2>
+
+<p>Através do makefile, é posição utilizar comandos que realizam o processo de compilação e execução do programa. A seguir, temos alguns comandos que podem ser utilizados:</p><br>
+
+* ``` make ```: Realiza a compilação do código por meio do gcc, no qual o resultado vai para a pasta build.</li><br>
+* ``` make run ```: Executa o programa armazenado na pasta build após este ser compilado.</li><br>
+* ``` make clean ```: Exclui a última compilação feita anteriormente na pasta build.</li><br><br>
+
+<p>Também é possível executar o programa através do site de hospedagem de código, Replit, onde foi realizado a programação do código do "Auxiliar de Redação": <link>https://replit.com/@OsBrabosSoltos/TrabalhoFinal#main.cpp</link></p>
+
+
