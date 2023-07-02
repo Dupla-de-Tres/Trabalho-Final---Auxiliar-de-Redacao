@@ -9,6 +9,21 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 
 <p> O objetivo é criar uma ferramenta prática e eficiente, que ajude as pessoas a produzir textos melhores. Com esse sistema, será possível contar com recursos que auxiliam na elaboração de textos mais claros e bem estruturados. O objetivo final é capacitar as pessoas a aprimorarem suas habilidades de escrita e se comunicarem de forma mais eficaz.</p>
 
+<p><p>O sistema em questão é um programa escrito em C++ que tem como objetivo processar e analisar um texto. Ele recebe como entrada três arquivos: um arquivo de texto contendo o conteúdo a ser processado, um arquivo de stopwords que contém palavras a serem ignoradas durante o processamento e um arquivo de expressões que contém expressões específicas a serem buscadas no texto.</p>
+
+<h2>Metodologia</h2>
+
+<p>O programa utiliza várias bibliotecas padrão do C++, que são conjuntos de funções e classes já implementadas, para realizar diversas tarefas necessárias no processamento de texto. Essas bibliotecas incluem funcionalidades para manipulação de strings, leitura e gravação de arquivos, manipulação de contêineres de dados (como mapas, vetores e conjuntos) e transformações de caracteres. A utilização dessas bibliotecas permite que a implementação das funcionalidades necessárias no programa se torne mais fácil e intuitiva para o usuário.</p>
+
+<p>Além disso, a estrutura do código se baseia em várias funções auxiliares que desempenham papéis específicos no processamento do texto. Por exemplo, a função "RemoverPontuacao" é responsável por remover os caracteres de pontuação de uma palavra, enquanto a função "toLowercase" converte uma palavra para letras minúsculas. As funções "DividirParagrafos" e "DividirFrases" dividem o texto em parágrafos e sentenças, respectivamente, utilizando a classe "std::istringstream" para fazer essa divisão com base em caracteres específicos.</p>
+
+<p>A função principal do programa é a função "main", que coordena todas as etapas de processamento. Primeiro, ele lê os arquivos de entrada, armazenando o conteúdo em variáveis do tipo string. Em seguida, o programa cria um conjunto de stopwords a partir do arquivo correspondente, convertendo todas as palavras para letras minúsculas. Também é criado um mapa chamado "wordMap", que será usado para armazenar informações sobre as palavras encontradas no texto.</p>
+
+<p>Após a preparação inicial, o texto é dividido em parágrafos, e cada parágrafo é dividido em sentenças. Para cada sentença, as palavras são processadas individualmente. Primeiro, é feita a remoção de pontuação e a conversão para letras minúsculas. Em seguida, é verificado se a palavra é uma stopword, ou seja, uma palavra que deve ser ignorada. As palavras que não são stopwords são adicionadas ao "wordMap", juntamente com informações sobre a linha e a sentença em que ocorrem.</p>
+
+<p>Logo depois do processamento das palavras, o programa exibe as informações armazenadas no "wordMap". Ele mostra as palavras em ordem alfabética, juntamente com suas frequências e as linhas e sentenças em que ocorrem. Em seguida, o programa verifica se há ocorrência de expressões específicas no texto, comparando cada expressão com cada linha. Caso uma expressão seja encontrada em uma linha, essa linha é exibida. </p>
+
+<p>No final do código é realizado a medição do tempo de execução do mesmo, através da função "std::clock"</p>
 
 
 <h2>Funções </h2>
