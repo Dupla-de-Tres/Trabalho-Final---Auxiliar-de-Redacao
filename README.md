@@ -76,6 +76,10 @@ Trabalho Final de AEDS I - Auxiliar de Redação
   
 * ``` void DividirFrases(); ```: O(n + m);
 
+<h2>Exemplo de Resultado</h2>
+
+
+
 <h2>Compilação e Execução do Programa</h2>
 
 <p>Através do makefile, é posição utilizar comandos que realizam o processo de compilação e execução do programa. A seguir, temos alguns comandos que podem ser utilizados:</p><br>
