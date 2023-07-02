@@ -18,6 +18,25 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 * ``` void DividirParagrafos(); ```: Divide um texto em parágrafos e retorna um vetor de strings contendo os parágrafos individuais.;
 * ``` void DividirFrases(); ```: Esta função recebe uma string chamada palavra como entrada e remove toda a pontuação dessa string. A função retorna uma nova string chamada resultado, que contém a palavra sem a pontuação.
 
+<h2>Arquivos</h2>
+
+* ``` main.cpp ```: Arquivo principal do código. Ele recebe o arquivo "" para executar suas funções.
+* 
+
+
+<h2>Etapas e Funcionalidade</h2>
+
+* Lê o conteúdo do arquivo de entrada, stopwords e expressões;
+* Cria um conjunto de stopwords para posterior verificação;
+* Divide o texto em parágrafos;
+* Para cada parágrafo, divide-o em sentenças;
+* Para cada sentença, conta o número de palavras com e sem stopwords;
+* Armazena as informações das palavras no mapa wordMap, que associa cada palavra a um mapa contendo informações sobre a linha e as ocorrências dessa palavra;
+* Imprime as palavras em ordem alfabética, juntamente com suas ocorrências e linhas correspondentes;
+* Verifica a ocorrência de cada expressão no texto e imprime a linha correspondente, se encontrada;
+* Calcula o total de palavras com e sem stopwords;
+* Calcula o tempo total de execução do programa.
+
 
 <h2>Análise de Complexidade das Funções </h2>
 
