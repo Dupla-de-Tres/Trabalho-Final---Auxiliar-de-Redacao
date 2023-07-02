@@ -98,9 +98,19 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 <p> </p>
 <p>Nesta primeira etapa, o programa exibe em qual linha foi identificado o parágrafo e, em seguida, quantas frases estão contidas nele. Depois, é separado cada frase, indicando a quantidade de palavras normais e a quantidade de palavras stopwords estão presentes em cada sentença. </p>
 
-<p></p>
+<p> </p>
 <p align="center">
 <img src="src/image/img3.jpg" 
+        alt="Picture" 
+        style="display: block; margin: 0 auto" />
+</p>
+<p> </p>
+
+<p>Na segunda etapa, são mostrados as ocorrências de cada palavra e em qual linha acontece essa ocorrência.</p>
+
+<p> </p>
+<p align="center">
+<img src="src/image/img4.jpg" 
         alt="Picture" 
         style="display: block; margin: 0 auto" />
 </p>
