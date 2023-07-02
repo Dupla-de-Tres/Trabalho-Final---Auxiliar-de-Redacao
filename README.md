@@ -70,11 +70,11 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 
 * ``` void RemoverPontuacao(); ```: A complexidade da função é de O(n), onde n é o tamanho da palavra de entrada. Ela é composta apenas de métodos;
   
-* ``` void toLowercase() ```: A complexidade da função é de O(n), pelo mesmo motivo da função "RemoverPontuacao". n é o tamanho da palavra de entrada.
+* ``` void toLowercase() ```: A complexidade da função é de O(n), pelo mesmo motivo da função "RemoverPontuacao". n é o tamanho da palavra de entrada;
   
-* ``` void DividirParagrafos(); ```: A complexidade desta parte é O(m). A função push_back é chamada para adicionar cada parágrafo ao vetor paragraphs. Como existem m parágrafos, a complexidade total dessa operação é O(m). Dito isto, a complexidade total da função DividirParagrafos é O(n + m), onde n é o tamanho da string de entrada e m é o número de linhas presentes no texto;
+* ``` void DividirParagrafos(); ```: Supondo que o parágrafo tenha 'n' caracteres e 'm' frases, logo, a complexidade da função é O(n + m), onde 'n' é o tamanho do parágrafo e 'm' é o número de frases resultantes;
   
-* ``` void DividirFrases(); ```: Supondo que o parágrafo tenha 'n' caracteres e 'm' frases, logo, a complexidade da função é O(n + m), onde 'n' é o tamanho do parágrafo e 'm' é o número de frases resultantes.
+* ``` void DividirFrases(); ```: Supondo que o texto tenha 'n' caracteres e 'm' linhas, logo, a complexidade da função é O(n + m), onde 'n' é o tamanho do texto e 'm' é o número de linhas.
   
 <h2>Exemplo de Resultado</h2>
 
