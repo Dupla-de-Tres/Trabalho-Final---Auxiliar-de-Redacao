@@ -126,7 +126,11 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 
 <p>Também é possível executar o programa através do site de hospedagem de código, Replit, onde foi realizado a programação do código do "Auxiliar de Redação": <link>https://replit.com/@OsBrabosSoltos/TrabalhoFinal#main.cpp</link></p>
 
+<h2>Conclusão</h2>
 
+<p>O algoritmo possui uma complexidade que depende do tamanho do texto e do número de palavras presentes nele. As etapas de processamento, como a remoção de pontuações e conversão para letras minúsculas, têm uma complexidade linear em relação ao tamanho do texto. A divisão em parágrafos e sentenças também tem uma complexidade linear. A contagem de palavras e a verificação de ocorrência de expressões têm uma complexidade que depende do número de palavras e expressões, respectivamente.</p>
+
+<p>Ademais, o algoritmo pode ser utilizado para realizar várias operações de processamento de texto, como a contagem de palavras, filtragem de stop words, busca por expressões específicas e obtenção de informações sobre a ocorrência de palavras em determinadas linhas e sentenças. Logo, ele se mostrou útil para ser um auxiliar de redação.</p>
 
 <h2>Autores</h2>
 
