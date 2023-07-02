@@ -68,14 +68,14 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 
 <h2>Análise de Complexidade das Funções </h2>
 
-* ``` void RemoverPontuacao(); ```: O(n);
+* ``` void RemoverPontuacao(); ```: A complexidade da função é de O(n), onde n é o tamanho da palavra de entrada. Ela é composta apenas de métodos;
   
-* ``` void toLowercase() ```: O(n);
+* ``` void toLowercase() ```: A complexidade da função é de O(n), pelo mesmo motivo da função "RemoverPontuacao". n é o tamanho da palavra de entrada.
   
-* ``` void DividirParagrafos(); ```: Em seguida, a função std::getline é chamada para cada linha do texto. Ela percorre o texto uma vez, buscando as quebras de linha e dividindo-o em parágrafos. Portanto, a complexidade dessa parte é O(m). A função push_back é chamada para adicionar cada parágrafo ao vetor paragraphs. Como existem m parágrafos, a complexidade total dessa operação é O(m). Assim, a complexidade total da função DividirParagrafos é O(n + m), onde n é o tamanho da string de entrada e m é o número de linhas presentes no texto;
+* ``` void DividirParagrafos(); ```: A complexidade desta parte é O(m). A função push_back é chamada para adicionar cada parágrafo ao vetor paragraphs. Como existem m parágrafos, a complexidade total dessa operação é O(m). Dito isto, a complexidade total da função DividirParagrafos é O(n + m), onde n é o tamanho da string de entrada e m é o número de linhas presentes no texto;
   
-* ``` void DividirFrases(); ```: O(n + m);
-
+* ``` void DividirFrases(); ```: Supondo que o parágrafo tenha 'n' caracteres e 'm' frases, logo, a complexidade da função é O(n + m), onde 'n' é o tamanho do parágrafo e 'm' é o número de frases resultantes.
+  
 <h2>Exemplo de Resultado</h2>
 
 
