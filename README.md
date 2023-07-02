@@ -79,7 +79,7 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 <h2>Exemplo de Resultado</h2>
 
 <p align="center">
-<img src="image/img1.jpg" 
+<img src="src/image/img1.jpg" 
         alt="Picture" 
         style="display: block; margin: 0 auto" />
 </p>
