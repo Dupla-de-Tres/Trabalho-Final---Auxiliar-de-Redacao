@@ -116,6 +116,8 @@ Trabalho Final de AEDS I - Auxiliar de Redação
 </p>
 <p> </p>
 
+<p>Por fim, na terceira etapa, são mostrados a ocorrência de expressões presentes no arquivo, a quantidade de palavras sem stop words, a quantidade de palavras com stop words e o tempo de execução necessário para o exemplo acima.</p>
+
 <h2>Compilação e Execução do Programa</h2>
 
 <p>Através do makefile, é posição utilizar comandos que realizam o processo de compilação e execução do programa. A seguir, temos alguns comandos que podem ser utilizados:</p><br>
