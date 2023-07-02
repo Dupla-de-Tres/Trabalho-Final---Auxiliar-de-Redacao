@@ -78,7 +78,11 @@ Trabalho Final de AEDS I - Auxiliar de Redação
   
 <h2>Exemplo de Resultado</h2>
 
-
+<p align="center">
+<img src="images/img1.png" 
+        alt="Picture" 
+        style="display: block; margin: 0 auto" />
+</p>
 
 <h2>Compilação e Execução do Programa</h2>
 
