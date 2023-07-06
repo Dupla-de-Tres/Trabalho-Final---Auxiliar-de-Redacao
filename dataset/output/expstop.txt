@@ -1,7 +1,0 @@
-Expressão: a partir de, Linha: 20
-Expressão: prove, Linha: 10
-Expressão: prove, Linha: 12
-Expressão: stop words, Linha: 5
-
-Total de palavras com stopwords: 461
-Total de palavras sem stopwords: 278
