@@ -1,0 +1,691 @@
+Palavra: abrangência
+  Linha: 1, Ocorrências: 1
+
+Palavra: adequada
+  Linha: 1, Ocorrências: 1
+
+Palavra: alcançar
+  Linha: 3, Ocorrências: 1
+
+Palavra: alfredo
+  Linha: 5, Ocorrências: 1
+
+Palavra: algoritmo
+  Linha: 9, Ocorrências: 1
+
+Palavra: algoritmos
+  Linha: 5, Ocorrências: 1
+
+Palavra: antônio
+  Linha: 5, Ocorrências: 1
+
+Palavra: análise
+  Linha: 5, Ocorrências: 1
+
+Palavra: apoio
+  Linha: 18, Ocorrências: 1
+
+Palavra: apresentada
+  Linha: 7, Ocorrências: 1
+  Linha: 26, Ocorrências: 1
+
+Palavra: apresentado
+  Linha: 22, Ocorrências: 1
+
+Palavra: apresentar
+  Linha: 7, Ocorrências: 1
+
+Palavra: aqui
+  Linha: 26, Ocorrências: 1
+
+Palavra: armazenar
+  Linha: 16, Ocorrências: 1
+
+Palavra: artigos
+  Linha: 1, Ocorrências: 1
+  Linha: 5, Ocorrências: 1
+
+Palavra: ascii
+  Linha: 5, Ocorrências: 1
+
+Palavra: atentarse
+  Linha: 3, Ocorrências: 1
+
+Palavra: auxiliar
+  Linha: 5, Ocorrências: 1
+
+Palavra: avaliação
+  Linha: 18, Ocorrências: 1
+
+Palavra: base
+  Linha: 9, Ocorrências: 1
+
+Palavra: beneficiou
+  Linha: 24, Ocorrências: 1
+
+Palavra: binária
+  Linha: 20, Ocorrências: 2
+
+Palavra: bitfirstdifferent
+  Linha: 18, Ocorrências: 1
+
+Palavra: bits
+  Linha: 13, Ocorrências: 1
+  Linha: 22, Ocorrências: 1
+
+Palavra: bom
+  Linha: 3, Ocorrências: 1
+
+Palavra: busca
+  Linha: 7, Ocorrências: 2
+  Linha: 24, Ocorrências: 1
+
+Palavra: buscar
+  Linha: 20, Ocorrências: 1
+
+Palavra: cada
+  Linha: 16, Ocorrências: 1
+
+Palavra: caracteres
+  Linha: 9, Ocorrências: 1
+
+Palavra: caracterizadas
+  Linha: 11, Ocorrências: 1
+
+Palavra: caso
+  Linha: 24, Ocorrências: 1
+
+Palavra: cc
+  Linha: 22, Ocorrências: 1
+
+Palavra: chances
+  Linha: 1, Ocorrências: 1
+
+Palavra: chave
+  Linha: 14, Ocorrências: 1
+  Linha: 16, Ocorrências: 1
+  Linha: 18, Ocorrências: 1
+  Linha: 20, Ocorrências: 1
+
+Palavra: chaves
+  Linha: 9, Ocorrências: 1
+  Linha: 11, Ocorrências: 1
+  Linha: 13, Ocorrências: 1
+
+Palavra: científicos
+  Linha: 1, Ocorrências: 1
+  Linha: 5, Ocorrências: 1
+
+Palavra: clara
+  Linha: 1, Ocorrências: 1
+
+Palavra: comparada
+  Linha: 11, Ocorrências: 1
+
+Palavra: compor
+  Linha: 9, Ocorrências: 1
+
+Palavra: conceitos
+  Linha: 5, Ocorrências: 1
+
+Palavra: congressos
+  Linha: 1, Ocorrências: 1
+
+Palavra: constante
+  Linha: 20, Ocorrências: 1
+
+Palavra: contrário
+  Linha: 24, Ocorrências: 1
+
+Palavra: convencionais
+  Linha: 11, Ocorrências: 1
+
+Palavra: correção
+  Linha: 5, Ocorrências: 1
+
+Palavra: criadas
+  Linha: 13, Ocorrências: 1
+
+Palavra: criar
+  Linha: 14, Ocorrências: 1
+
+Palavra: criação
+  Linha: 5, Ocorrências: 1
+
+Palavra: código
+  Linha: 22, Ocorrências: 1
+
+Palavra: dado
+  Linha: 16, Ocorrências: 1
+  Linha: 20, Ocorrências: 1
+
+Palavra: dados
+  Linha: 5, Ocorrências: 1
+  Linha: 9, Ocorrências: 1
+
+Palavra: dedo
+  Linha: 11, Ocorrências: 1
+
+Palavra: definidas
+  Linha: 9, Ocorrências: 1
+
+Palavra: definido
+  Linha: 16, Ocorrências: 1
+
+Palavra: definir
+  Linha: 20, Ocorrências: 1
+
+Palavra: desenvolvido
+  Linha: 9, Ocorrências: 1
+
+Palavra: deslocamento
+  Linha: 22, Ocorrências: 1
+
+Palavra: deste
+  Linha: 24, Ocorrências: 1
+
+Palavra: detalhes
+  Linha: 3, Ocorrências: 1
+
+Palavra: deveria
+  Linha: 7, Ocorrências: 1
+
+Palavra: diagrama
+  Linha: 26, Ocorrências: 1
+
+Palavra: dicionários
+  Linha: 11, Ocorrências: 1
+
+Palavra: digitais
+  Linha: 9, Ocorrências: 1
+
+Palavra: disciplina
+  Linha: 5, Ocorrências: 1
+
+Palavra: disso
+  Linha: 5, Ocorrências: 1
+
+Palavra: documento
+  Linha: 22, Ocorrências: 1
+
+Palavra: dois
+  Linha: 13, Ocorrências: 1
+
+Palavra: dígitos
+  Linha: 9, Ocorrências: 1
+
+Palavra: elaborar
+  Linha: 1, Ocorrências: 1
+
+Palavra: encontrado
+  Linha: 22, Ocorrências: 1
+
+Palavra: encontrados
+  Linha: 11, Ocorrências: 1
+
+Palavra: entre
+  Linha: 26, Ocorrências: 1
+
+Palavra: enviado
+  Linha: 24, Ocorrências: 1
+
+Palavra: enviandose
+  Linha: 13, Ocorrências: 1
+
+Palavra: eou
+  Linha: 14, Ocorrências: 1
+
+Palavra: escolhidos
+  Linha: 9, Ocorrências: 1
+
+Palavra: escrita
+  Linha: 1, Ocorrências: 1
+
+Palavra: escritos
+  Linha: 5, Ocorrências: 1
+
+Palavra: estrutura
+  Linha: 1, Ocorrências: 1
+  Linha: 9, Ocorrências: 1
+  Linha: 11, Ocorrências: 1
+  Linha: 13, Ocorrências: 1
+  Linha: 14, Ocorrências: 1
+
+Palavra: estruturas
+  Linha: 5, Ocorrências: 1
+  Linha: 7, Ocorrências: 1
+  Linha: 9, Ocorrências: 1
+
+Palavra: expressões
+  Linha: 3, Ocorrências: 1
+  Linha: 7, Ocorrências: 1
+
+Palavra: família
+  Linha: 9, Ocorrências: 1
+
+Palavra: faz
+  Linha: 9, Ocorrências: 1
+  Linha: 14, Ocorrências: 1
+
+Palavra: ferreira
+  Linha: 5, Ocorrências: 1
+
+Palavra: figura
+  Linha: 26, Ocorrências: 1
+
+Palavra: for
+  Linha: 22, Ocorrências: 2
+
+Palavra: foram
+  Linha: 9, Ocorrências: 1
+  Linha: 13, Ocorrências: 1
+  Linha: 18, Ocorrências: 1
+
+Palavra: forma
+  Linha: 7, Ocorrências: 2
+  Linha: 20, Ocorrências: 1
+
+Palavra: formatação
+  Linha: 5, Ocorrências: 1
+
+Palavra: gargalos
+  Linha: 18, Ocorrências: 1
+
+Palavra: getbinarykey
+  Linha: 13, Ocorrências: 1
+
+Palavra: getbit
+  Linha: 18, Ocorrências: 1
+
+Palavra: grosso
+  Linha: 11, Ocorrências: 1
+
+Palavra: identificar
+  Linha: 14, Ocorrências: 1
+  Linha: 24, Ocorrências: 1
+
+Palavra: identificação
+  Linha: 7, Ocorrências: 1
+
+Palavra: implementados
+  Linha: 18, Ocorrências: 1
+
+Palavra: indexação
+  Linha: 7, Ocorrências: 1
+  Linha: 9, Ocorrências: 1
+
+Palavra: informações
+  Linha: 16, Ocorrências: 1
+
+Palavra: insert
+  Linha: 13, Ocorrências: 1
+  Linha: 14, Ocorrências: 1
+
+Palavra: início
+  Linha: 3, Ocorrências: 1
+
+Palavra: isso
+  Linha: 20, Ocorrências: 1
+  Linha: 22, Ocorrências: 1
+
+Palavra: junto
+  Linha: 22, Ocorrências: 1
+
+Palavra: keycompare
+  Linha: 18, Ocorrências: 1
+
+Palavra: linguagem
+  Linha: 22, Ocorrências: 1
+
+Palavra: linhas
+  Linha: 3, Ocorrências: 1
+  Linha: 16, Ocorrências: 1
+
+Palavra: literatura
+  Linha: 9, Ocorrências: 1
+
+Palavra: localização
+  Linha: 24, Ocorrências: 1
+
+Palavra: lookup
+  Linha: 13, Ocorrências: 1
+  Linha: 20, Ocorrências: 1
+  Linha: 24, Ocorrências: 1
+
+Palavra: loreiro
+  Linha: 5, Ocorrências: 1
+
+Palavra: maior
+  Linha: 1, Ocorrências: 1
+
+Palavra: manipulação
+  Linha: 20, Ocorrências: 1
+
+Palavra: map
+  Linha: 9, Ocorrências: 1
+
+Palavra: melhor
+  Linha: 1, Ocorrências: 1
+
+Palavra: melhorar
+  Linha: 1, Ocorrências: 1
+
+Palavra: melhores
+  Linha: 7, Ocorrências: 1
+
+Palavra: melhoria
+  Linha: 3, Ocorrências: 1
+
+Palavra: modo
+  Linha: 11, Ocorrências: 1
+
+Palavra: método
+  Linha: 13, Ocorrências: 1
+  Linha: 20, Ocorrências: 1
+  Linha: 24, Ocorrências: 1
+
+Palavra: métodos
+  Linha: 13, Ocorrências: 1
+  Linha: 18, Ocorrências: 1
+  Linha: 26, Ocorrências: 1
+
+Palavra: nisso
+  Linha: 13, Ocorrências: 1
+
+Palavra: null
+  Linha: 24, Ocorrências: 1
+
+Palavra: numero
+  Linha: 3, Ocorrências: 1
+
+Palavra: não
+  Linha: 7, Ocorrências: 1
+  Linha: 24, Ocorrências: 1
+
+Palavra: nó
+  Linha: 14, Ocorrências: 1
+  Linha: 20, Ocorrências: 1
+  Linha: 22, Ocorrências: 1
+
+Palavra: nós
+  Linha: 24, Ocorrências: 1
+
+Palavra: número
+  Linha: 16, Ocorrências: 1
+
+Palavra: objetivouse
+  Linha: 20, Ocorrências: 1
+
+Palavra: observado
+  Linha: 22, Ocorrências: 1
+
+Palavra: observados
+  Linha: 26, Ocorrências: 1
+
+Palavra: observando
+  Linha: 9, Ocorrências: 1
+
+Palavra: obtidas
+  Linha: 13, Ocorrências: 1
+
+Palavra: obtido
+  Linha: 22, Ocorrências: 1
+
+Palavra: ocorrência
+  Linha: 16, Ocorrências: 1
+
+Palavra: ordenadas
+  Linha: 7, Ocorrências: 1
+
+Palavra: outros
+  Linha: 26, Ocorrências: 1
+
+Palavra: padrão
+  Linha: 5, Ocorrências: 1
+
+Palavra: palavra
+  Linha: 13, Ocorrências: 1
+  Linha: 16, Ocorrências: 1
+  Linha: 24, Ocorrências: 1
+
+Palavra: palavras
+  Linha: 3, Ocorrências: 1
+  Linha: 7, Ocorrências: 1
+  Linha: 9, Ocorrências: 1
+
+Palavra: partir
+  Linha: 20, Ocorrências: 1
+
+Palavra: parágrafo
+  Linha: 3, Ocorrências: 1
+
+Palavra: parágrafos
+  Linha: 16, Ocorrências: 1
+
+Palavra: patricia
+  Linha: 9, Ocorrências: 2
+
+Palavra: patriciatreenode
+  Linha: 16, Ocorrências: 1
+
+Palavra: pela
+  Linha: 20, Ocorrências: 1
+  Linha: 22, Ocorrências: 2
+  Linha: 26, Ocorrências: 1
+
+Palavra: pensando
+  Linha: 13, Ocorrências: 1
+
+Palavra: pesquisada
+  Linha: 24, Ocorrências: 1
+
+Palavra: pode
+  Linha: 1, Ocorrências: 1
+  Linha: 3, Ocorrências: 1
+  Linha: 22, Ocorrências: 1
+
+Palavra: podem
+  Linha: 26, Ocorrências: 1
+
+Palavra: poderia
+  Linha: 7, Ocorrências: 1
+  Linha: 18, Ocorrências: 1
+
+Palavra: positivo
+  Linha: 22, Ocorrências: 1
+
+Palavra: possíveis
+  Linha: 18, Ocorrências: 1
+
+Palavra: principais
+  Linha: 13, Ocorrências: 1
+
+Palavra: processo
+  Linha: 24, Ocorrências: 1
+
+Palavra: professor
+  Linha: 5, Ocorrências: 1
+
+Palavra: projeto
+  Linha: 5, Ocorrências: 1
+
+Palavra: propôs
+  Linha: 5, Ocorrências: 1
+
+Palavra: prove
+  Linha: 11, Ocorrências: 1
+  Linha: 13, Ocorrências: 1
+
+Palavra: providos
+  Linha: 22, Ocorrências: 1
+  Linha: 26, Ocorrências: 1
+
+Palavra: própria
+  Linha: 22, Ocorrências: 1
+
+Palavra: publicalo
+  Linha: 1, Ocorrências: 1
+
+Palavra: pudesse
+  Linha: 5, Ocorrências: 1
+
+Palavra: qual
+  Linha: 13, Ocorrências: 1
+
+Palavra: qualificação
+  Linha: 1, Ocorrências: 1
+
+Palavra: qualquer
+  Linha: 20, Ocorrências: 1
+
+Palavra: quando
+  Linha: 11, Ocorrências: 1
+
+Palavra: quantidade
+  Linha: 3, Ocorrências: 1
+
+Palavra: recursos
+  Linha: 22, Ocorrências: 1
+
+Palavra: repetição
+  Linha: 3, Ocorrências: 1
+
+Palavra: repetições
+  Linha: 16, Ocorrências: 1
+
+Palavra: resposta
+  Linha: 24, Ocorrências: 1
+
+Palavra: resultado
+  Linha: 22, Ocorrências: 1
+
+Palavra: resultados
+  Linha: 7, Ocorrências: 1
+  Linha: 20, Ocorrências: 1
+
+Palavra: retornado
+  Linha: 22, Ocorrências: 1
+
+Palavra: retornasse
+  Linha: 20, Ocorrências: 1
+
+Palavra: retorno
+  Linha: 13, Ocorrências: 1
+  Linha: 24, Ocorrências: 1
+
+Palavra: sabendose
+  Linha: 5, Ocorrências: 1
+  Linha: 18, Ocorrências: 1
+
+Palavra: segundo
+  Linha: 24, Ocorrências: 1
+
+Palavra: semiinfinito
+  Linha: 11, Ocorrências: 1
+
+Palavra: sentenças
+  Linha: 3, Ocorrências: 1
+
+Palavra: sequência
+  Linha: 9, Ocorrências: 1
+
+Palavra: sequêncial
+  Linha: 7, Ocorrências: 1
+
+Palavra: serem
+  Linha: 11, Ocorrências: 1
+
+Palavra: seu
+  Linha: 13, Ocorrências: 1
+
+Palavra: solução
+  Linha: 5, Ocorrências: 1
+  Linha: 7, Ocorrências: 1
+  Linha: 26, Ocorrências: 1
+
+Palavra: stop
+  Linha: 7, Ocorrências: 1
+
+Palavra: são
+  Linha: 11, Ocorrências: 1
+
+Palavra: tais
+  Linha: 3, Ocorrências: 1
+  Linha: 9, Ocorrências: 1
+
+Palavra: tamanho
+  Linha: 11, Ocorrências: 1
+
+Palavra: tanto
+  Linha: 3, Ocorrências: 1
+
+Palavra: tempo
+  Linha: 20, Ocorrências: 1
+
+Palavra: tipo
+  Linha: 9, Ocorrências: 1
+  Linha: 16, Ocorrências: 1
+
+Palavra: trabalho
+  Linha: 5, Ocorrências: 1
+  Linha: 13, Ocorrências: 1
+
+Palavra: uml
+  Linha: 26, Ocorrências: 1
+
+Palavra: uso
+  Linha: 9, Ocorrências: 1
+  Linha: 14, Ocorrências: 1
+
+Palavra: usuário
+  Linha: 22, Ocorrências: 1
+
+Palavra: utilizadas
+  Linha: 11, Ocorrências: 1
+
+Palavra: utilizado
+  Linha: 16, Ocorrências: 1
+  Linha: 20, Ocorrências: 1
+
+Palavra: utilizar
+  Linha: 7, Ocorrências: 1
+
+Palavra: utilização
+  Linha: 5, Ocorrências: 1
+  Linha: 22, Ocorrências: 1
+
+Palavra: vantagens
+  Linha: 11, Ocorrências: 1
+
+Palavra: variáveis
+  Linha: 11, Ocorrências: 1
+
+Palavra: vazio
+  Linha: 24, Ocorrências: 1
+
+Palavra: vez
+  Linha: 16, Ocorrências: 1
+
+Palavra: vir
+  Linha: 5, Ocorrências: 1
+  Linha: 7, Ocorrências: 1
+
+Palavra: visto
+  Linha: 7, Ocorrências: 1
+
+Palavra: várias
+  Linha: 9, Ocorrências: 1
+
+Palavra: words
+  Linha: 7, Ocorrências: 1
+
+Palavra: árvore
+  Linha: 9, Ocorrências: 2
+  Linha: 20, Ocorrências: 1
+
+Palavra: árvores
+  Linha: 9, Ocorrências: 1
+
+Palavra: índices
+  Linha: 11, Ocorrências: 1
+
